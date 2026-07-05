@@ -1,0 +1,13 @@
+{
+  "name": "KET 背单词",
+  "short_name": "KET背单词",
+  "description": "剑桥 A2 Key (KET) 词库背单词 App，记忆曲线 + 四种练习游戏",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f4fb",
+  "theme_color": "#5b6cff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
